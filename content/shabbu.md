@@ -5,11 +5,11 @@ title = "About"
 ## Education
 
 **University of Illinois Urbana-Champaign** (Aug 2021 - May 2023) \
-Master of Science in Data Science and Analytics \
+Master of Science in Data Science and Analytics 
 <!-- GPA: 3.75/4.0  -->
 
 **Pune Institute of Computer Technology** (Aug 2014 - May 2018) \
-Bachelor of Engineering in Computer Science \
+Bachelor of Engineering in Computer Science 
 <!-- GPA: 9.1/10 -->
 
 ## Professional Experience
